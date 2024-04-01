@@ -54,6 +54,8 @@ git pull -u origin main
 ### Branches
 ```
 git checkout -b branch-name - Create a new branch
+git merge teste - Merge branch test in main, if u are on main branch
+git branch -d teste - To delete a Branch
 ```
 
 ## 🔍 References
