@@ -53,3 +53,9 @@ git push -u origin main
 ## 🔍 References
 - [DIO - Digital Innovation One](https://web.dio.me/home)
 
+## 🐵 Curiosity
+```
+https://github.dev/oAmorim2k5/DIO-COURSE/blob/main/README.md
+
+Switch github.com to github.dev to open git web editor. -"like vscode"
+```
