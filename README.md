@@ -60,6 +60,7 @@ git branch -d teste - To delete a Branch
 
 ## 🔍 References
 - [DIO - Digital Innovation One](https://web.dio.me/home)
+- [DIO - Eliana](https://github.com/elidianaandrade/dio-curso-git-github)
 
 ## 🐵 Curiosity
 ```
