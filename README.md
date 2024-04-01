@@ -14,6 +14,7 @@ Repository to store my overview of Git and GitHub, of the course "Versionamento 
 | Creating and Cloning repository | [overview](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?back=/track/microsoft-azure-ai-fundamentals&tab=undefined&moduleId=undefined)
 | Restoring changes on local repository | [overview](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3f9f2336-6fd5-44cb-ba39-d1a4f6448023?back=/track/microsoft-azure-ai-fundamentals&tab=undefined&moduleId=undefined)
 | Sending and Uploading changes from remote repository | [overview](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?back=/track/microsoft-azure-ai-fundamentals&tab=undefined&moduleId=undefined)
+| Branches | [overview](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/2c7fd2b1-e7c4-4947-9b07-ffcbfb4bd689?back=/track/microsoft-azure-ai-fundamentals&tab=undefined&moduleId=undefined)
 
 ### Create and Conect
 ```
@@ -48,6 +49,11 @@ git reset --hard ""
 ```
 git remote add origin {Git repository url}
 git push -u origin main
+```
+
+### Branches
+```
+git checkout -b branch-name - Create a new branch
 ```
 
 ## 🔍 References
