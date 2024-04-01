@@ -66,4 +66,12 @@ git branch -d teste - To delete a Branch
 https://github.dev/oAmorim2k5/DIO-COURSE/blob/main/README.md
 
 Switch github.com to github.dev to open git web editor. -"like vscode"
+
+ERROR:
+ ! [rejected]    main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/oAmorim2k5/DIO-COURSE.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+RESOLUTION:
+Use the command git pull to download recent changes from the remote repository for your local repository.
 ```
