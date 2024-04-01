@@ -45,10 +45,10 @@ git reset --mixed "" or git reset ""
 git reset --hard ""
 ```
 
-### Pushing repository
+### Copy repository
 ```
 git remote add origin {Git repository url}
-git push -u origin main
+git pull -u origin main
 ```
 
 ### Branches
